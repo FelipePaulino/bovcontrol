@@ -57,6 +57,7 @@ O desafio deve ser realizado em 96 horas a partir da data de envio do desafio.
 
 Caso tenha algum imprevisto avise com antecedência o encarregado do desafio.
 
+
 Boa sorte!
 
 > Inteligência é a capacidade de se adaptar a mudança - Stephen Hawking
