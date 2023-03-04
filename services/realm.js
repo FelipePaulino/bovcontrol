@@ -2,8 +2,8 @@ import Realm from 'realm';
 
 import Checklist from '../schemas/Checklist';
 
-export default function getRealm() {
-  return Realm.open({
+export const getRealm = async () => {
+  await Realm.open({
     schema: [Checklist],
   });
 }
